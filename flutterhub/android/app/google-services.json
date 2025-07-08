@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "320972644360",
+    "project_id": "airbnb-bd47e",
+    "storage_bucket": "airbnb-bd47e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320972644360:android:02217acff9ad1a371731bd",
+        "android_client_info": {
+          "package_name": "com.example.flutterhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320972644360-9s02ip7t6tlo4h5jmdjn12f254d4hugl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterhub",
+            "certificate_hash": "13bcd112861e3c3af69b3361c5c9792dcfa5d804"
+          }
+        },
+        {
+          "client_id": "320972644360-0cchld8vni3mt4trm4oil2641m05s9j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7b7Fr6782mBBuDeINFjYgaw07H3ldR0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320972644360-0cchld8vni3mt4trm4oil2641m05s9j3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320972644360-m8pe9q0peftgi1l5q9mmt6odtcuh1guj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
